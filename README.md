@@ -1,3 +1,6 @@
+author: Zubeer Adam 
+Date: June 26, 2016 
+
 # Git and GitHub Basics
 >*To begin you will want to fork a copy of this repository and pull it down to your local machine.*
 
